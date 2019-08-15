@@ -25,3 +25,4 @@ echo "The GCF of $1 and $2 is: $num1"
     # then replace $num1 with the difference
   # else
     # subtract $num1 from $num2
+    # and replace $num2 with the difference
